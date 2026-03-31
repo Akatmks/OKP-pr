@@ -1,4 +1,4 @@
-﻿using OKP.Core.Interface;
+using OKP.Core.Interface;
 using static OKP.Core.Interface.TorrentContent;
 using Tommy;
 
